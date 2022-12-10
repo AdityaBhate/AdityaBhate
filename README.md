@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**AdityaBhate/AdityaBhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⛄💫About Me :
 
-Here are some ideas to get you started:
+Hello, my name is Aditya Bhate, a passionate Web developer.<br/>
+The greatest term to describe me is a good learner, and I am now learning and developing myself daily.
+I love to build exciting and challenging web apps.
+still an amateur, but gonna give it all :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhate-89ab7221b/)
+
+---
+# 💻Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,mongodb,mysql,postgresql,vscode,git,github)
+</br>
+
+---
+# 🦾 Stats
+</br>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaBhate&show_icons=true&theme=highcontrast&hide_border=true" width="400">
