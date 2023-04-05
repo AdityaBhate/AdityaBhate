@@ -3,8 +3,8 @@
 # ⛄💫About Me :
 
 Hello, my name is Aditya Bhate, a passionate Web developer.<br/>
-Learning and developing myself daily.
-I love to build exciting and challenging web apps.
+Learning and developing myself daily.<br/>
+I love to build exciting and challenging web apps.<br/>
 I work with these tech stacks 👇
 
 ---
