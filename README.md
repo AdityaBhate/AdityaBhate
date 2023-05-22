@@ -4,9 +4,8 @@
 
 Hello, my name is Aditya Bhate, a passionate Web developer.<br/>
 Learning and developing myself daily.<br/>
-I love to build exciting and challenging web apps.<br/>
-I work with these tech stacks 👇
 
+I work with these tech stacks 👇
 ---
 # 💻Tech Stack
 
@@ -23,3 +22,10 @@ I work with these tech stacks 👇
 # 🦾 Stats
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhate&show_icons=true&theme=highcontrast&hide_border=true" width="400">
+
+---
+# Currently Working on 💻:
+<ul>
+<li>Personal Blog: ( A full-stack, production-ready Next.js Blog site! )</li>
+<li>ProPod: ( An enterprise-grade project management tool for teams, with work-analytics and all )</li>
+</ul>
