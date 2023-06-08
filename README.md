@@ -26,6 +26,7 @@ I work with these tech stacks 👇
 ---
 # Currently Working on 💻:
 <ul>
+<li>Machine Learning and Stats</li>
 <li>Personal Blog: ( A full-stack, production-ready Next.js Blog site! )</li>
 <li>ProPod: ( An enterprise-grade project management tool for teams, with work-analytics and all )</li>
 </ul>
