@@ -5,9 +5,8 @@
 Hello, my name is Aditya Bhate, a passionate Web developer.<br/>
 Learning and developing myself daily.<br/>
 
-I work with these tech stacks 👇
----
-# 💻Tech Stack
+I work with these <strong>💻Tech Stack👇</strong>
+
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,mongodb,mysql,postgresql,vscode,git,github)
 </br>
@@ -28,5 +27,4 @@ I work with these tech stacks 👇
 <ul>
 <li>Machine Learning and Stats</li>
 <li>Personal Blog: ( A full-stack, production-ready Next.js Blog site! )</li>
-<li>ProPod: ( An enterprise-grade project management tool for teams, with work-analytics and all )</li>
 </ul>
