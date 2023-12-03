@@ -13,18 +13,11 @@ I work with these <strong>💻Tech Stack👇</strong>
 
 ## 🌐Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhate-89ab7221b/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabhate305@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhate-89ab7221b/)
+- [My Website](https://www.adityabhate.tech)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabhate305@gmail.com)
 
 ---
 # 🦾 Stats
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaBhate&show_icons=true&theme=highcontrast&hide_border=true" width="400">
-
----
-# Currently Working on 💻:
-<ul>
-<li>Machine Learning and Stats</li>
-<li>Personal Blog: ( A full-stack, production-ready Next.js Blog site! )</li>
-</ul>
