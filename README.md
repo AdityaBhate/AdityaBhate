@@ -3,13 +3,11 @@
 
 <!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityabhate" alt="adityabhate" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [adityabhate.tech](https://adityabhate.tech)
-
-- 📝 I regularly write articles on [https://clubs.internshala.com/member/adityabhate/](https://clubs.internshala.com/member/adityabhate/)
-
 - 💬 Ask me about **React, Next.js, and Node.js**
 
 - 📫 How to reach me **adityabhate305@gmail.com**
+
+- 📝 I write articles on [https://clubs.internshala.com/member/adityabhate/](https://clubs.internshala.com/member/adityabhate/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lCsCnXOYUYrLSNBfayDHCKPJ9x9dsN5j/view?usp=sharing](https://drive.google.com/file/d/1lCsCnXOYUYrLSNBfayDHCKPJ9x9dsN5j/view?usp=sharing)
 
