@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhate</h1>
-<h3 align="center">A JavaScript developer specializing in React, Next.js, and Node.js</h3>
+<h3 align="center">A JavaScript developer specializing in React, Next.js, Node.js and PhP</h3>
 
 <!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityabhate" alt="adityabhate" /></a> </p> -->
 
