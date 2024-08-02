@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Aditya Bhate</h1>
-<h3 align="center">A JavaScript developer specializing in React, Next.js, Node.js and PhP</h3>
+<h3 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><p align="center">
+</h3>
+<h1 align="center">Hi, I'm Aditya Bhate</h1>
+<h3 align="center">A Web Engineer/developer specializing in React, Next.js, Node.js and PHP</h3>
 
-<!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityabhate" alt="adityabhate" /></a> </p> -->
+<br/>
 
-- 💬 Ask me about **React, Next.js, and Node.js**
+- 💬 Ask me about **React, Next.js, PHP, and Node.js**
 
 - 📫 How to reach me **adityabhate305@gmail.com**
 
-- 📝 I write articles on [https://clubs.internshala.com/member/adityabhate/](https://clubs.internshala.com/member/adityabhate/)
+- 📝 I write articles on [InternShala](https://clubs.internshala.com/member/adityabhate/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lCsCnXOYUYrLSNBfayDHCKPJ9x9dsN5j/view?usp=sharing](https://drive.google.com/file/d/1lCsCnXOYUYrLSNBfayDHCKPJ9x9dsN5j/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lCsCnXOYUYrLSNBfayDHCKPJ9x9dsN5j/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -93,14 +96,34 @@
 
 </p>
 
-<p>&nbsp;</p>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabhate&show_icons=true&locale=en&layout=compact" alt="adityabhate" /></p>
+[![@adityabhate's Holopin badges](https://holopin.me/adityabhate)](https://holopin.io/@adityabhate)
 
-<p>&nbsp;</p>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=adityabhate&show_icons=true&locale=en" alt="adityabhate" /></p>
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=AdityaBhate&style=flat-square&color=22CCB2">
 
-<p>&nbsp;</p>
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaBhate&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityabhate&" alt="adityabhate" /></p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 📊 GitHub Activity
+
+
+| ![Shrey GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaBhate&show_icons=true&theme=radical) | ![Shrey GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaBhate&theme=radical) |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhate&langs_count=8&theme=radical&layout=compact) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaBhate&theme=2077) |
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
