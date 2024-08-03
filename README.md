@@ -14,27 +14,27 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lCsCnXOYUYrLSNBfayDHCKPJ9x9dsN5j/view?usp=sharing)
 
+
 <div align="center"> 
   <a href="mailto:adityabhate305@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  
   <a href="https://www.linkedin.com/in/aditya-bhate" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  
   <a href="https://adityabhate.tech" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,cpp,docker,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,php,postman,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,nodejs,express,mysql,postgresql,mongodb,cpp,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,postman,git,aws,wordpress" />
 </div>
 
 <h3 align="center">
