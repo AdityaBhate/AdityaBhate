@@ -10,10 +10,6 @@
 
 - 📫 How to reach me **adityabhate305@gmail.com**
 
-- 📝 I write articles on [InternShala](https://clubs.internshala.com/member/adityabhate/)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lCsCnXOYUYrLSNBfayDHCKPJ9x9dsN5j/view?usp=sharing)
-
 
 <div align="center"> 
   <a href="mailto:adityabhate305@gmail.com">
