@@ -2,11 +2,11 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><p align="center">
 </h3>
 <h1 align="center">Hi, I'm Aditya Bhate</h1>
-<h3 align="center">A Web Engineer/developer</h3>
+<h3 align="center">A Web Engineer / Developer</h3>
 
 <br/>
 
-- 💬 Ask me about **React, Next.js, PHP, Node.js and AWS**
+- 💬 Ask me about **React, Next.js, PHP, WordPress, Node.js and AWS**
 
 - 📫 How to reach me **adityabhate305@gmail.com**
 
@@ -18,10 +18,6 @@
   
   <a href="https://www.linkedin.com/in/aditya-bhate" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-  <a href="https://adityabhate.tech" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
