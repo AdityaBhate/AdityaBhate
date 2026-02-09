@@ -6,7 +6,7 @@
 
 <br/>
 
-- 💬 Ask me about **React, Next.js, PHP, WordPress, Node.js and AWS**
+- 💬 Ask me about **React, Next.js, Python, Node.js and AWS**
 
 - 📫 How to reach me **adityabhate305@gmail.com**
 
